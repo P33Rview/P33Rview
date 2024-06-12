@@ -1,6 +1,6 @@
 ### Hi there, welcome to my profile 🚀👋
 
-- 💻 Data Scientist in banking sector, Prague CZ
+- 💻 Data Scientist in a banking sector, Prague CZ
 - 🎓 Master's in Economics and Finance
 
 🛠️ I build models using:
